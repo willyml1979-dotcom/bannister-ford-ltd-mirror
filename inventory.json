@@ -1,7 +1,7 @@
 {
   "dealership": "Bannister Ford Ltd",
-  "generated_at": "2026-09-26T19:45:53",
-  "vehicle_count": 148,
+  "generated_at": "2026-09-26T20:08:05",
+  "vehicle_count": 144,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
   "vehicles": [
@@ -552,7 +552,7 @@
       "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/cbaff56a58fd.html",
       "source_url": "https://www.bannisterford.com/inventory/2026-ford-bronco-sport-big-bend-A7JNqax5SDW4MfRJCdbiGQvdp",
       "dealer_url": "https://www.bannisterford.com/inventory/2026-ford-bronco-sport-big-bend-A7JNqax5SDW4MfRJCdbiGQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T19:43:46",
+      "last_verified": "2026-09-26T20:07:47",
       "price": 37142.0,
       "price_currency": "CAD",
       "condition": "new"
@@ -565,7 +565,7 @@
       "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/89b267e2de76.html",
       "source_url": "https://www.bannisterford.com/inventory/2026-ford-bronco-sport-big-bend-K0WAc641QVGFsrCgjHiH4gvdp",
       "dealer_url": "https://www.bannisterford.com/inventory/2026-ford-bronco-sport-big-bend-K0WAc641QVGFsrCgjHiH4gvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T19:43:58",
+      "last_verified": "2026-09-26T20:08:00",
       "price": 38784.0,
       "price_currency": "CAD",
       "condition": "new"
@@ -580,19 +580,6 @@
       "dealer_url": "https://www.bannisterford.com/inventory/2026-ford-bronco-sport-big-bend-SSZsO3YYTsS0wueIGDgdBQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T19:44:10",
       "price": 37428.0,
-      "price_currency": "CAD",
-      "condition": "new"
-    },
-    {
-      "name": "New2026FordBronco SportOuter Banks",
-      "vin": "3FMCR9CN4TRF11919",
-      "stock": "3826040",
-      "color": "Orange",
-      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/704344614fb3.html",
-      "source_url": "https://www.bannisterford.com/inventory/2026-ford-bronco-sport-outer-banks-BLmCyHbhTIWpXyFfOfNgmwvdp",
-      "dealer_url": "https://www.bannisterford.com/inventory/2026-ford-bronco-sport-outer-banks-BLmCyHbhTIWpXyFfOfNgmwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T19:44:21",
-      "price": 39695.0,
       "price_currency": "CAD",
       "condition": "new"
     },
@@ -1168,14 +1155,14 @@
     },
     {
       "name": "New2026FordF-150Tremor",
-      "vin": "1FTFW4L8XTFB51172",
-      "stock": "3826033",
+      "vin": "1FTFW4L89TFC04797",
+      "stock": "3826041",
       "color": "Blue",
-      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/cd0031eb7a2e.html",
-      "source_url": "https://www.bannisterford.com/inventory/2026-ford-f-150-tremor-rxVrKL9hQqePNrDKK3nBjQvdp",
-      "dealer_url": "https://www.bannisterford.com/inventory/2026-ford-f-150-tremor-rxVrKL9hQqePNrDKK3nBjQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T19:59:15",
-      "price": 73098.0,
+      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/d27d2082b1f7.html",
+      "source_url": "https://www.bannisterford.com/inventory/2026-ford-f-150-tremor-pxEqzMFrRs25FQn5cgqQFQvdp",
+      "dealer_url": "https://www.bannisterford.com/inventory/2026-ford-f-150-tremor-pxEqzMFrRs25FQn5cgqQFQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:04:44",
+      "price": 85573.0,
       "price_currency": "CAD",
       "condition": "new"
     },
@@ -1321,37 +1308,13 @@
     },
     {
       "name": "New2026FordF-150XLT",
-      "vin": "1FTFW3L50TKE46207",
-      "stock": "3826030",
-      "color": "Black",
-      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/c917dc7d5553.html",
-      "source_url": "https://www.bannisterford.com/inventory/2026-ford-f-150-xlt-QNGSgFbDRBG6oi97lr1kEwvdp",
-      "dealer_url": "https://www.bannisterford.com/inventory/2026-ford-f-150-xlt-QNGSgFbDRBG6oi97lr1kEwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-23T18:59:26",
-      "price": 69368.0,
-      "price_currency": "CAD",
-      "condition": "new"
-    },
-    {
-      "name": "New2026FordF-150XLT",
-      "vin": "1FTFW3L87TKE21508",
-      "stock": "3826043",
-      "color": "White",
-      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/b215becd0b15.html",
-      "source_url": "https://www.bannisterford.com/inventory/2026-ford-f-150-xlt-RrjTAVsnTOeSFi0Lf3BZdwvdp",
-      "dealer_url": "https://www.bannisterford.com/inventory/2026-ford-f-150-xlt-RrjTAVsnTOeSFi0Lf3BZdwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T19:52:30",
-      "condition": "new"
-    },
-    {
-      "name": "New2026FordF-150XLT",
       "vin": "1FTFW3L80TKE41518",
       "stock": "3826030",
       "color": "White",
       "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/9fadfe87c159.html",
       "source_url": "https://www.bannisterford.com/inventory/2026-ford-f-150-xlt-diqIIn3oRb69lTc5AJEdVwvdp",
       "dealer_url": "https://www.bannisterford.com/inventory/2026-ford-f-150-xlt-diqIIn3oRb69lTc5AJEdVwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-23T18:59:36",
+      "last_verified": "2026-09-26T20:05:10",
       "price": 68664.0,
       "price_currency": "CAD",
       "condition": "new"
@@ -1364,7 +1327,7 @@
       "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/3bcea0d1f779.html",
       "source_url": "https://www.bannisterford.com/inventory/2026-ford-f-150-xlt-gxQwx8jZTICCJGcyvvlpMwvdp",
       "dealer_url": "https://www.bannisterford.com/inventory/2026-ford-f-150-xlt-gxQwx8jZTICCJGcyvvlpMwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-23T18:59:49",
+      "last_verified": "2026-09-26T20:05:22",
       "price": 69950.0,
       "price_currency": "CAD",
       "condition": "new"
@@ -1377,7 +1340,7 @@
       "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/d141eaf9ed96.html",
       "source_url": "https://www.bannisterford.com/inventory/2026-ford-f-150-xlt-pP04X61RQAe9v4eVySfTwQvdp",
       "dealer_url": "https://www.bannisterford.com/inventory/2026-ford-f-150-xlt-pP04X61RQAe9v4eVySfTwQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-23T19:00:12",
+      "last_verified": "2026-09-26T20:05:35",
       "price": 68664.0,
       "price_currency": "CAD",
       "condition": "new"
@@ -1390,7 +1353,7 @@
       "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/19366e83e2da.html",
       "source_url": "https://www.bannisterford.com/inventory/2026-ford-f-150-xlt-vKNuFSJnSLCoJV1Jsz2Hbwvdp",
       "dealer_url": "https://www.bannisterford.com/inventory/2026-ford-f-150-xlt-vKNuFSJnSLCoJV1Jsz2Hbwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-23T19:00:25",
+      "last_verified": "2026-09-26T20:05:46",
       "price": 71436.0,
       "price_currency": "CAD",
       "condition": "new"
@@ -1403,7 +1366,7 @@
       "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/abad9ec47d5d.html",
       "source_url": "https://www.bannisterford.com/inventory/2026-ford-maverick-xlt-5g5YRkcpQbaqSdcLwxk83Avdp",
       "dealer_url": "https://www.bannisterford.com/inventory/2026-ford-maverick-xlt-5g5YRkcpQbaqSdcLwxk83Avdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-23T19:00:37",
+      "last_verified": "2026-09-26T20:05:59",
       "price": 39134.0,
       "price_currency": "CAD",
       "condition": "new"
@@ -1442,7 +1405,7 @@
       "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/38dacc00e6c1.html",
       "source_url": "https://www.bannisterford.com/inventory/2026-ford-ranger-xl-6KEd5w4PRpW33NCtNEkxfwvdp",
       "dealer_url": "https://www.bannisterford.com/inventory/2026-ford-ranger-xl-6KEd5w4PRpW33NCtNEkxfwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-23T19:00:49",
+      "last_verified": "2026-09-26T20:06:12",
       "price": 44549.0,
       "price_currency": "CAD",
       "condition": "new"
@@ -1494,7 +1457,7 @@
       "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/65429b026a34.html",
       "source_url": "https://www.bannisterford.com/inventory/2026-ford-ranger-xlt-4Y8lDip9SQG7g4h41qV6Kwvdp",
       "dealer_url": "https://www.bannisterford.com/inventory/2026-ford-ranger-xlt-4Y8lDip9SQG7g4h41qV6Kwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-23T19:00:59",
+      "last_verified": "2026-09-26T20:06:25",
       "price": 50338.0,
       "price_currency": "CAD",
       "condition": "new"
@@ -1507,7 +1470,7 @@
       "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/2964bcda03e8.html",
       "source_url": "https://www.bannisterford.com/inventory/2026-ford-ranger-xlt-FVabRaGwSiKzlE9Z8FO3CQvdp",
       "dealer_url": "https://www.bannisterford.com/inventory/2026-ford-ranger-xlt-FVabRaGwSiKzlE9Z8FO3CQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-23T19:01:10",
+      "last_verified": "2026-09-26T20:06:37",
       "price": 51229.0,
       "price_currency": "CAD",
       "condition": "new"
@@ -1590,19 +1553,6 @@
     },
     {
       "name": "New2026FordSuper Duty F-350 SRWLariat",
-      "vin": "1FT8W3BT7TEF01677",
-      "stock": "3826029",
-      "color": "White",
-      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/ca4547fc40df.html",
-      "source_url": "https://www.bannisterford.com/inventory/2026-ford-super-duty-f-350-srw-lariat-NccVlJH0TGuKPdVk1NMneAvdp",
-      "dealer_url": "https://www.bannisterford.com/inventory/2026-ford-super-duty-f-350-srw-lariat-NccVlJH0TGuKPdVk1NMneAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T19:54:43",
-      "price": 99198.0,
-      "price_currency": "CAD",
-      "condition": "new"
-    },
-    {
-      "name": "New2026FordSuper Duty F-350 SRWLariat",
       "vin": "1FT8W3BT0TEF47996",
       "stock": "3826042",
       "color": "Gray",
@@ -1620,20 +1570,9 @@
       "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/4a05c6d98314.html",
       "source_url": "https://www.bannisterford.com/inventory/2026-ford-super-duty-f-350-srw-lariat-mWtPwQh0REeWgnhprUsG9wvdp",
       "dealer_url": "https://www.bannisterford.com/inventory/2026-ford-super-duty-f-350-srw-lariat-mWtPwQh0REeWgnhprUsG9wvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-23T19:01:22",
+      "last_verified": "2026-09-26T20:06:47",
       "price": 105655.0,
       "price_currency": "CAD",
-      "condition": "new"
-    },
-    {
-      "name": "New2026FordSuper Duty F-350 SRWXLT",
-      "vin": "1FT8W3BT1TED95288",
-      "stock": "3826043",
-      "color": "White",
-      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/f94978a5af3d.html",
-      "source_url": "https://www.bannisterford.com/inventory/2026-ford-super-duty-f-350-srw-xlt-A46SHmu7TZqJ5reqWOLd9gvdp",
-      "dealer_url": "https://www.bannisterford.com/inventory/2026-ford-super-duty-f-350-srw-xlt-A46SHmu7TZqJ5reqWOLd9gvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T19:55:07",
       "condition": "new"
     },
     {
@@ -1753,6 +1692,17 @@
       "condition": "new"
     },
     {
+      "name": "New2027FordSuper Duty F-250 SRWLARIAT",
+      "vin": "1FT7W2BM9VEC42384",
+      "stock": "3827001",
+      "color": "Silver",
+      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/db52cc51998c.html",
+      "source_url": "https://www.bannisterford.com/inventory/2027-ford-super-duty-f-250-srw-lariat-IQwfHfO7TeeOqnBg6J6o1Qvdp",
+      "dealer_url": "https://www.bannisterford.com/inventory/2027-ford-super-duty-f-250-srw-lariat-IQwfHfO7TeeOqnBg6J6o1Qvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:04:57",
+      "condition": "new"
+    },
+    {
       "name": "New2027FordSuper Duty F-350 SRWKing Ranch",
       "vin": "1FT8W3BM5VEC33370",
       "stock": "3827001",
@@ -1819,14 +1769,14 @@
       "condition": "new"
     },
     {
-      "name": "87 Vehicles For Sale in Dawson Creek, BC",
-      "vin": "3GTU2MEC8HG468006",
+      "name": "86 Vehicles For Sale in Dawson Creek, BC",
+      "vin": "2G1WB5ENXA1248566",
       "stock": "40T26-4",
-      "color": "Silver",
+      "color": "Gray",
       "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/fa223d4a1250.html",
       "source_url": "https://www.bannisterford.com/inventory/used-group/?paymentRange%5Bgte%5D=&paymentRange%5Blte%5D=20000&paymentOption=CASH",
       "dealer_url": "https://www.bannisterford.com/inventory/used-group/?paymentRange%5Bgte%5D=&paymentRange%5Blte%5D=20000&paymentOption=CASH&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-23T19:01:31",
+      "last_verified": "2026-09-26T20:06:58",
       "price": 13694.0,
       "price_currency": "CAD",
       "condition": "new"
