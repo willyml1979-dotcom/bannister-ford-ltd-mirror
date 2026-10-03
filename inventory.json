@@ -1,7 +1,7 @@
 {
   "dealership": "Bannister Ford Ltd",
-  "generated_at": "2026-10-02T16:25:24",
-  "vehicle_count": 136,
+  "generated_at": "2026-10-03T15:28:04",
+  "vehicle_count": 134,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
   "vehicles": [
@@ -16,27 +16,6 @@
       "condition": "used"
     },
     {
-      "name": "Used2016FordF-150XLT",
-      "vin": "1FTEW1E8XGKF28992",
-      "stock": "3826033",
-      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/used/0b1219ce739a.html",
-      "source_url": "https://www.bannisterford.com/inventory/2016-ford-f-150-xlt-3X8sE2M4SyC8mtZt70TEBwvdp",
-      "dealer_url": "https://www.bannisterford.com/inventory/2016-ford-f-150-xlt-3X8sE2M4SyC8mtZt70TEBwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T19:44:48",
-      "condition": "used"
-    },
-    {
-      "name": "Used2017ChevroletSilverado 1500LTZ",
-      "vin": "3GCUKSEC9HG502166",
-      "stock": "38P0206",
-      "color": "Silver",
-      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/used/39c406747d2a.html",
-      "source_url": "https://www.bannisterford.com/inventory/2017-chevrolet-silverado-1500-ltz-W0zgjsbYTC6a1tqflHXlrwvdp",
-      "dealer_url": "https://www.bannisterford.com/inventory/2017-chevrolet-silverado-1500-ltz-W0zgjsbYTC6a1tqflHXlrwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T19:45:01",
-      "condition": "used"
-    },
-    {
       "name": "Used2017FordExpeditionXLT",
       "vin": "1FMJU1JT3HEA22513",
       "stock": "38P0189",
@@ -44,7 +23,9 @@
       "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/used/e883aedb3d17.html",
       "source_url": "https://www.bannisterford.com/inventory/2017-ford-expedition-xlt-yR8XrlDZRYeWGM2qOiacPQvdp",
       "dealer_url": "https://www.bannisterford.com/inventory/2017-ford-expedition-xlt-yR8XrlDZRYeWGM2qOiacPQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T19:38:09",
+      "last_verified": "2026-10-03T15:27:05",
+      "price": 12799.0,
+      "price_currency": "CAD",
       "condition": "used"
     },
     {
@@ -66,7 +47,9 @@
       "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/used/4f908ed2a21e.html",
       "source_url": "https://www.bannisterford.com/inventory/2018-ford-expedition-xlt-wr0umqSLS9i6FukKZvCsOgvdp",
       "dealer_url": "https://www.bannisterford.com/inventory/2018-ford-expedition-xlt-wr0umqSLS9i6FukKZvCsOgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T19:38:21",
+      "last_verified": "2026-10-03T15:27:16",
+      "price": 19999.0,
+      "price_currency": "CAD",
       "condition": "used"
     },
     {
@@ -77,32 +60,9 @@
       "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/used/21d05897fa21.html",
       "source_url": "https://www.bannisterford.com/inventory/2018-ford-f-150-xlt-om620hkdT6Gl1c6amlVlfwvdp",
       "dealer_url": "https://www.bannisterford.com/inventory/2018-ford-f-150-xlt-om620hkdT6Gl1c6amlVlfwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T19:38:30",
+      "last_verified": "2026-10-03T15:27:26",
       "price": 31999.0,
       "price_currency": "CAD",
-      "condition": "used"
-    },
-    {
-      "name": "Used2018ToyotaRAV4Hybrid SE",
-      "vin": "JTMJJREV4JD226045",
-      "stock": "38P0160",
-      "color": "Gray",
-      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/used/4e5f53d64851.html",
-      "source_url": "https://www.bannisterford.com/inventory/2018-toyota-rav4-hybrid-se-FXZpzd9dSUOvpbYeAfj3DAvdp",
-      "dealer_url": "https://www.bannisterford.com/inventory/2018-toyota-rav4-hybrid-se-FXZpzd9dSUOvpbYeAfj3DAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T19:38:40",
-      "price": 27799.0,
-      "price_currency": "CAD",
-      "condition": "used"
-    },
-    {
-      "name": "Used2019FordF-150Limited",
-      "vin": "1FTEW1EG5KFA98832",
-      "stock": "3826035",
-      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/used/6662a050fd4c.html",
-      "source_url": "https://www.bannisterford.com/inventory/2019-ford-f-150-limited-GTJZLCeOT8CCSgg2v5rjAQvdp",
-      "dealer_url": "https://www.bannisterford.com/inventory/2019-ford-f-150-limited-GTJZLCeOT8CCSgg2v5rjAQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T19:45:12",
       "condition": "used"
     },
     {
@@ -113,7 +73,7 @@
       "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/used/3430dacbe063.html",
       "source_url": "https://www.bannisterford.com/inventory/2019-ram-1500-classic-slt-xMwjvmCeSxGFna7VUlZZ2Qvdp",
       "dealer_url": "https://www.bannisterford.com/inventory/2019-ram-1500-classic-slt-xMwjvmCeSxGFna7VUlZZ2Qvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T19:38:51",
+      "last_verified": "2026-10-03T15:27:37",
       "price": 25458.0,
       "price_currency": "CAD",
       "condition": "used"
@@ -139,14 +99,14 @@
       "condition": "used"
     },
     {
-      "name": "Used2022FordBronco SportOuter Banks",
-      "vin": "3FMCR9C64NRD64092",
-      "stock": "3826015",
-      "color": "Green",
-      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/used/3a7a5f578b97.html",
-      "source_url": "https://www.bannisterford.com/inventory/2022-ford-bronco-sport-outer-banks-eTgo0RooTByP3IAMjAjW1gvdp",
-      "dealer_url": "https://www.bannisterford.com/inventory/2022-ford-bronco-sport-outer-banks-eTgo0RooTByP3IAMjAjW1gvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T19:35:32",
+      "name": "Used2022FordExpeditionPlatinum Max",
+      "vin": "1FMJK1MT2NEA60683",
+      "stock": "3827000",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/used/7b1aa72e34b7.html",
+      "source_url": "https://www.bannisterford.com/inventory/2022-ford-expedition-platinum-max-WjClbYy0SWOeLox5mVBDiQvdp",
+      "dealer_url": "https://www.bannisterford.com/inventory/2022-ford-expedition-platinum-max-WjClbYy0SWOeLox5mVBDiQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-03T15:23:55",
       "condition": "used"
     },
     {
@@ -157,9 +117,31 @@
       "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/used/b8d31bf7bb65.html",
       "source_url": "https://www.bannisterford.com/inventory/2022-ford-f-150-xlt-97VH3ddbQrGIB0Nw6qWGcgvdp",
       "dealer_url": "https://www.bannisterford.com/inventory/2022-ford-f-150-xlt-97VH3ddbQrGIB0Nw6qWGcgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T19:39:01",
-      "price": 36499.0,
+      "last_verified": "2026-10-03T15:27:47",
+      "price": 35999.0,
       "price_currency": "CAD",
+      "condition": "used"
+    },
+    {
+      "name": "Used2022GMCSierra 1500SLE",
+      "vin": "3GTPUBEK1NG664285",
+      "stock": "3826041",
+      "color": "Blue",
+      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/used/fa8bd4307388.html",
+      "source_url": "https://www.bannisterford.com/inventory/2022-gmc-sierra-1500-sle-xe90pMGnRKq2mW4FyIK9RAvdp",
+      "dealer_url": "https://www.bannisterford.com/inventory/2022-gmc-sierra-1500-sle-xe90pMGnRKq2mW4FyIK9RAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-03T15:24:05",
+      "condition": "used"
+    },
+    {
+      "name": "Used2022Ram1500Laramie",
+      "vin": "1C6SRFJT3NN472558",
+      "stock": "3826018",
+      "color": "Red",
+      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/used/033f16095b67.html",
+      "source_url": "https://www.bannisterford.com/inventory/2022-ram-1500-laramie-WhFrmBidQFepmd1A60xHawvdp",
+      "dealer_url": "https://www.bannisterford.com/inventory/2022-ram-1500-laramie-WhFrmBidQFepmd1A60xHawvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-03T15:24:15",
       "condition": "used"
     },
     {
@@ -170,7 +152,7 @@
       "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/used/5dcba5343d2c.html",
       "source_url": "https://www.bannisterford.com/inventory/2023-chevrolet-tahoe-premier-Umz0uv94TGG3EMSVgUPJhgvdp",
       "dealer_url": "https://www.bannisterford.com/inventory/2023-chevrolet-tahoe-premier-Umz0uv94TGG3EMSVgUPJhgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T19:39:24",
+      "last_verified": "2026-10-03T15:27:58",
       "price": 67359.0,
       "price_currency": "CAD",
       "condition": "used"
@@ -235,7 +217,17 @@
       "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/used/171c82f066bc.html",
       "source_url": "https://www.bannisterford.com/inventory/2023-jeep-compass-north-DPzb4DUOSAaJAuDkjIQI6gvdp",
       "dealer_url": "https://www.bannisterford.com/inventory/2023-jeep-compass-north-DPzb4DUOSAaJAuDkjIQI6gvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T19:35:43",
+      "last_verified": "2026-10-03T15:25:25",
+      "condition": "used"
+    },
+    {
+      "name": "Used2023Ram1500 ClassicExpress",
+      "vin": "1C6RR7KT7PS573593",
+      "stock": "38P0209",
+      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/used/0096e8a0a78a.html",
+      "source_url": "https://www.bannisterford.com/inventory/2023-ram-1500-classic-express-8otBj8BATvivmweSIpnP4gvdp",
+      "dealer_url": "https://www.bannisterford.com/inventory/2023-ram-1500-classic-express-8otBj8BATvivmweSIpnP4gvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-03T15:24:27",
       "condition": "used"
     },
     {
@@ -258,7 +250,17 @@
       "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/used/5462b9ddec5b.html",
       "source_url": "https://www.bannisterford.com/inventory/2024-chevrolet-blazer-rs-ppY0FbumTBSsMD9HirWcvwvdp",
       "dealer_url": "https://www.bannisterford.com/inventory/2024-chevrolet-blazer-rs-ppY0FbumTBSsMD9HirWcvwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T19:35:55",
+      "last_verified": "2026-10-03T15:25:36",
+      "condition": "used"
+    },
+    {
+      "name": "Used2024FordBroncoBig Bend",
+      "vin": "1FMDE7BH0RLA32713",
+      "stock": "3826043",
+      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/used/fb9691d01edc.html",
+      "source_url": "https://www.bannisterford.com/inventory/2024-ford-bronco-big-bend-xnS8bNvySm6uKW7vNBwgsAvdp",
+      "dealer_url": "https://www.bannisterford.com/inventory/2024-ford-bronco-big-bend-xnS8bNvySm6uKW7vNBwgsAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-03T15:24:35",
       "condition": "used"
     },
     {
@@ -272,6 +274,17 @@
       "last_verified": "2026-09-25T19:40:30",
       "price": 44999.0,
       "price_currency": "CAD",
+      "condition": "used"
+    },
+    {
+      "name": "Used2024FordF-150Lariat",
+      "vin": "1FTFW5L87RFB28513",
+      "stock": "3826042",
+      "color": "Gray",
+      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/used/d38fb4479821.html",
+      "source_url": "https://www.bannisterford.com/inventory/2024-ford-f-150-lariat-iVBguhxoQse3vF0xWzwvlwvdp",
+      "dealer_url": "https://www.bannisterford.com/inventory/2024-ford-f-150-lariat-iVBguhxoQse3vF0xWzwvlwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-03T15:24:44",
       "condition": "used"
     },
     {
@@ -294,7 +307,7 @@
       "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/used/2da35cfffe13.html",
       "source_url": "https://www.bannisterford.com/inventory/2024-ram-3500-laramie-NLcUC0HQTM6CApFHswzO0gvdp",
       "dealer_url": "https://www.bannisterford.com/inventory/2024-ram-3500-laramie-NLcUC0HQTM6CApFHswzO0gvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T19:36:08",
+      "last_verified": "2026-10-03T15:25:45",
       "condition": "used"
     },
     {
@@ -311,13 +324,13 @@
       "condition": "used"
     },
     {
-      "name": "Used2025FordEscapePlatinum",
-      "vin": "1FMCU9JA3SUA73092",
-      "stock": "38P0181",
-      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/used/653c7153d77e.html",
-      "source_url": "https://www.bannisterford.com/inventory/2025-ford-escape-platinum-eaZpCrcjRrW2hpOcJRJjKwvdp",
-      "dealer_url": "https://www.bannisterford.com/inventory/2025-ford-escape-platinum-eaZpCrcjRrW2hpOcJRJjKwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T19:36:19",
+      "name": "Used2025ChevroletTrailBlazerLT",
+      "vin": "KL79MRSL6SB029014",
+      "stock": "3826033",
+      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/used/1efab8a7fee6.html",
+      "source_url": "https://www.bannisterford.com/inventory/2025-chevrolet-trailblazer-lt-A13hPOv5RcGM1pfsHOQwtAvdp",
+      "dealer_url": "https://www.bannisterford.com/inventory/2025-chevrolet-trailblazer-lt-A13hPOv5RcGM1pfsHOQwtAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-03T15:24:54",
       "condition": "used"
     },
     {
@@ -330,19 +343,6 @@
       "dealer_url": "https://www.bannisterford.com/inventory/2025-ford-f-150-lariat-i10qCLphQ8KDSlxgi1iuPgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T19:43:20",
       "price": 65499.0,
-      "price_currency": "CAD",
-      "condition": "used"
-    },
-    {
-      "name": "Used2025FordF-150Lariat",
-      "vin": "1FTFW5L89SKE46310",
-      "stock": "3826013",
-      "color": "Black",
-      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/used/5d797b01849b.html",
-      "source_url": "https://www.bannisterford.com/inventory/2025-ford-f-150-lariat-qf5eDsLOQYyKe9WpJfjuTwvdp",
-      "dealer_url": "https://www.bannisterford.com/inventory/2025-ford-f-150-lariat-qf5eDsLOQYyKe9WpJfjuTwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T19:43:32",
-      "price": 66999.0,
       "price_currency": "CAD",
       "condition": "used"
     },
@@ -371,19 +371,6 @@
       "condition": "used"
     },
     {
-      "name": "Used2025FordF-150XLT",
-      "vin": "1FTFW3L8XSKF85933",
-      "stock": "38P0112",
-      "color": "Gray",
-      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/used/e60eee6ca7f6.html",
-      "source_url": "https://www.bannisterford.com/inventory/2025-ford-f-150-xlt-R7Utbh0pR8mw39xgO4i7vQvdp",
-      "dealer_url": "https://www.bannisterford.com/inventory/2025-ford-f-150-xlt-R7Utbh0pR8mw39xgO4i7vQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T19:44:03",
-      "price": 58499.0,
-      "price_currency": "CAD",
-      "condition": "used"
-    },
-    {
       "name": "Used2025FordTransit Passenger WagonXL",
       "vin": "1FBAX9C8XSKA00198",
       "stock": "38P0179",
@@ -400,28 +387,18 @@
       "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/used/8f8c25c7b580.html",
       "source_url": "https://www.bannisterford.com/inventory/2025-mitsubishi-rvr-es-29MAPzpTTHqXfDuI62m1egvdp",
       "dealer_url": "https://www.bannisterford.com/inventory/2025-mitsubishi-rvr-es-29MAPzpTTHqXfDuI62m1egvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T19:36:27",
+      "last_verified": "2026-10-03T15:25:55",
       "condition": "used"
     },
     {
       "name": "Used2026ChevroletEquinoxAWD LT",
       "vin": "3GNAXPEGXTL283343",
       "stock": "38P0180",
+      "color": "Black",
       "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/used/b4b97fdb3c6b.html",
       "source_url": "https://www.bannisterford.com/inventory/2026-chevrolet-equinox-awd-lt-oDgaO54FRr2iySiiipsBLgvdp",
       "dealer_url": "https://www.bannisterford.com/inventory/2026-chevrolet-equinox-awd-lt-oDgaO54FRr2iySiiipsBLgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T19:36:36",
-      "condition": "used"
-    },
-    {
-      "name": "Used2026FordF-150Tremor",
-      "vin": "1FTFW4L82TFB61176",
-      "stock": "38P0204",
-      "color": "Blue",
-      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/used/7cdb59d1add3.html",
-      "source_url": "https://www.bannisterford.com/inventory/2026-ford-f-150-tremor-sPKNtjihR6uErCJ5ZOgBWwvdp",
-      "dealer_url": "https://www.bannisterford.com/inventory/2026-ford-f-150-tremor-sPKNtjihR6uErCJ5ZOgBWwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T19:36:46",
+      "last_verified": "2026-10-03T15:26:06",
       "condition": "used"
     },
     {
@@ -432,31 +409,29 @@
       "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/used/eb6463c8d693.html",
       "source_url": "https://www.bannisterford.com/inventory/2026-ford-super-duty-f-350-srw-king-ranch-T6LZVYvoTOKtvxhPFv3DiQvdp",
       "dealer_url": "https://www.bannisterford.com/inventory/2026-ford-super-duty-f-350-srw-king-ranch-T6LZVYvoTOKtvxhPFv3DiQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T19:36:58",
-      "price": 120142.0,
-      "price_currency": "CAD",
+      "last_verified": "2026-10-03T15:26:18",
       "condition": "used"
     },
     {
-      "name": "New2026FordSuper Duty F-350 SRWLariat",
-      "vin": "1FT8W3BT0TEF47996",
-      "stock": "3826042",
+      "name": "New2027FordExpeditionKing Ranch",
+      "vin": "1FMJU1P84VEA23278",
+      "stock": "3827001",
       "color": "Gray",
-      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/used/51e1cf2d2a5f.html",
-      "source_url": "https://www.bannisterford.com/inventory/2026-ford-super-duty-f-350-srw-lariat-Nqrd7uZpRraXzKAG38ltdAvdp",
-      "dealer_url": "https://www.bannisterford.com/inventory/2026-ford-super-duty-f-350-srw-lariat-Nqrd7uZpRraXzKAG38ltdAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T19:37:11",
+      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/used/8123d99c3d04.html",
+      "source_url": "https://www.bannisterford.com/inventory/2027-ford-expedition-king-ranch-IzKIrvuwRZmSFYcEiMAKQwvdp",
+      "dealer_url": "https://www.bannisterford.com/inventory/2027-ford-expedition-king-ranch-IzKIrvuwRZmSFYcEiMAKQwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-03T15:25:05",
       "condition": "used"
     },
     {
-      "name": "New2027FordExpeditionPlatinum Max",
-      "vin": "1FMJK1MG2VEA18632",
-      "stock": "3827000",
-      "color": "Gray",
-      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/used/f0f1f3a150a9.html",
-      "source_url": "https://www.bannisterford.com/inventory/2027-ford-expedition-platinum-max-nt6vOEwOTImGAcjM63KneQvdp",
-      "dealer_url": "https://www.bannisterford.com/inventory/2027-ford-expedition-platinum-max-nt6vOEwOTImGAcjM63KneQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T19:37:22",
+      "name": "New2027FordSuper Duty F-250 SRWLARIAT",
+      "vin": "1FT7W2BM9VEC42384",
+      "stock": "3827001",
+      "color": "Silver",
+      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/used/db52cc51998c.html",
+      "source_url": "https://www.bannisterford.com/inventory/2027-ford-super-duty-f-250-srw-lariat-IQwfHfO7TeeOqnBg6J6o1Qvdp",
+      "dealer_url": "https://www.bannisterford.com/inventory/2027-ford-super-duty-f-250-srw-lariat-IQwfHfO7TeeOqnBg6J6o1Qvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-03T15:25:16",
       "condition": "used"
     },
     {
@@ -467,7 +442,7 @@
       "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/used/fe9aea25b3ad.html",
       "source_url": "https://www.bannisterford.com/inventory/2027-ford-super-duty-f-350-srw-king-ranch-3u7FHIRSSZuzfrHVK1ylGAvdp",
       "dealer_url": "https://www.bannisterford.com/inventory/2027-ford-super-duty-f-350-srw-king-ranch-3u7FHIRSSZuzfrHVK1ylGAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T19:37:33",
+      "last_verified": "2026-10-03T15:26:30",
       "condition": "used"
     },
     {
@@ -478,7 +453,7 @@
       "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/used/be8924eff232.html",
       "source_url": "https://www.bannisterford.com/inventory/2027-ford-super-duty-f-350-srw-king-ranch-Ewe5fLdAQmGVhJGIMy1LzQvdp",
       "dealer_url": "https://www.bannisterford.com/inventory/2027-ford-super-duty-f-350-srw-king-ranch-Ewe5fLdAQmGVhJGIMy1LzQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T19:37:45",
+      "last_verified": "2026-10-03T15:26:43",
       "condition": "used"
     },
     {
@@ -489,7 +464,7 @@
       "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/used/094518f6b3ae.html",
       "source_url": "https://www.bannisterford.com/inventory/2027-ford-super-duty-f-350-srw-platinum-HIQJb6XwQP2JebuZaq6ZbQvdp",
       "dealer_url": "https://www.bannisterford.com/inventory/2027-ford-super-duty-f-350-srw-platinum-HIQJb6XwQP2JebuZaq6ZbQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T19:37:56",
+      "last_verified": "2026-10-03T15:26:54",
       "condition": "used"
     },
     {
