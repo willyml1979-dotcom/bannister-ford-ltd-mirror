@@ -1,6 +1,6 @@
 {
   "dealership": "Bannister Ford Ltd",
-  "generated_at": "2026-10-03T16:30:02",
+  "generated_at": "2026-10-04T15:31:50",
   "vehicle_count": 132,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -12,7 +12,9 @@
       "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/used/5fd2c53353e5.html",
       "source_url": "https://www.bannisterford.com/inventory/2014-ford-f-150-xlt-I767treNRuGOrcKqnHIFZQvdp",
       "dealer_url": "https://www.bannisterford.com/inventory/2014-ford-f-150-xlt-I767treNRuGOrcKqnHIFZQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T19:44:38",
+      "last_verified": "2026-10-04T15:31:46",
+      "price": 16799.0,
+      "price_currency": "CAD",
       "condition": "used"
     },
     {
@@ -36,7 +38,7 @@
       "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/used/f3aeb1687081.html",
       "source_url": "https://www.bannisterford.com/inventory/2017-gmc-yukon-slt-4s960vv7RWOr6nZgb2nvnAvdp",
       "dealer_url": "https://www.bannisterford.com/inventory/2017-gmc-yukon-slt-4s960vv7RWOr6nZgb2nvnAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T19:43:01",
+      "last_verified": "2026-10-04T15:30:25",
       "condition": "used"
     },
     {
@@ -165,8 +167,8 @@
       "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/used/f7f1183e8f33.html",
       "source_url": "https://www.bannisterford.com/inventory/2023-chrysler-pacifica-touring-l-dpoeBJhSRr21GLgRs600xwvdp",
       "dealer_url": "https://www.bannisterford.com/inventory/2023-chrysler-pacifica-touring-l-dpoeBJhSRr21GLgRs600xwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T19:39:35",
-      "price": 34279.0,
+      "last_verified": "2026-10-04T15:29:14",
+      "price": 33999.0,
       "price_currency": "CAD",
       "condition": "used"
     },
@@ -191,7 +193,7 @@
       "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/used/c2c719b82d28.html",
       "source_url": "https://www.bannisterford.com/inventory/2023-ford-f-150-platinum-wH8WxspRTkGypbdbwNKuiwvdp",
       "dealer_url": "https://www.bannisterford.com/inventory/2023-ford-f-150-platinum-wH8WxspRTkGypbdbwNKuiwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T19:39:56",
+      "last_verified": "2026-10-04T15:29:28",
       "price": 51499.0,
       "price_currency": "CAD",
       "condition": "used"
@@ -204,7 +206,7 @@
       "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/used/3fc100f0523f.html",
       "source_url": "https://www.bannisterford.com/inventory/2023-gmc-acadia-sle-Zzz6DtwTR6GgJ0Zu4vykiQvdp",
       "dealer_url": "https://www.bannisterford.com/inventory/2023-gmc-acadia-sle-Zzz6DtwTR6GgJ0Zu4vykiQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T19:40:07",
+      "last_verified": "2026-10-04T15:29:41",
       "price": 27999.0,
       "price_currency": "CAD",
       "condition": "used"
@@ -238,7 +240,7 @@
       "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/used/d0af72239590.html",
       "source_url": "https://www.bannisterford.com/inventory/2023-ram-1500-sport-TEyGfTObSX29i0LpmkP1Cgvdp",
       "dealer_url": "https://www.bannisterford.com/inventory/2023-ram-1500-sport-TEyGfTObSX29i0LpmkP1Cgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T19:40:19",
+      "last_verified": "2026-10-04T15:29:52",
       "price": 52999.0,
       "price_currency": "CAD",
       "condition": "used"
@@ -271,7 +273,7 @@
       "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/used/076ca79a85ff.html",
       "source_url": "https://www.bannisterford.com/inventory/2024-ford-e-series-cutaway-sgr5sFMeQJuU1fXjLHu6jgvdp",
       "dealer_url": "https://www.bannisterford.com/inventory/2024-ford-e-series-cutaway-sgr5sFMeQJuU1fXjLHu6jgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T19:40:30",
+      "last_verified": "2026-10-04T15:30:04",
       "price": 44999.0,
       "price_currency": "CAD",
       "condition": "used"
@@ -295,8 +297,8 @@
       "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/used/791f81d2c443.html",
       "source_url": "https://www.bannisterford.com/inventory/2024-jeep-wrangler-sport-s-20bFjAxpQDmL3qg6ncTWlAvdp",
       "dealer_url": "https://www.bannisterford.com/inventory/2024-jeep-wrangler-sport-s-20bFjAxpQDmL3qg6ncTWlAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T19:40:41",
-      "price": 47499.0,
+      "last_verified": "2026-10-04T15:30:14",
+      "price": 46999.0,
       "price_currency": "CAD",
       "condition": "used"
     },
@@ -318,7 +320,7 @@
       "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/used/b2bac88e8e8d.html",
       "source_url": "https://www.bannisterford.com/inventory/2024-ram-3500-laramie-qunNEyJPTq6qvJrlWMadvQvdp",
       "dealer_url": "https://www.bannisterford.com/inventory/2024-ram-3500-laramie-qunNEyJPTq6qvJrlWMadvQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T19:43:11",
+      "last_verified": "2026-10-04T15:30:36",
       "price": 72499.0,
       "price_currency": "CAD",
       "condition": "used"
@@ -341,7 +343,7 @@
       "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/used/2e148539c756.html",
       "source_url": "https://www.bannisterford.com/inventory/2025-ford-f-150-lariat-i10qCLphQ8KDSlxgi1iuPgvdp",
       "dealer_url": "https://www.bannisterford.com/inventory/2025-ford-f-150-lariat-i10qCLphQ8KDSlxgi1iuPgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T19:43:20",
+      "last_verified": "2026-10-04T15:30:49",
       "price": 65499.0,
       "price_currency": "CAD",
       "condition": "used"
@@ -354,7 +356,7 @@
       "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/used/13489c6d48f6.html",
       "source_url": "https://www.bannisterford.com/inventory/2025-ford-f-150-stx-EjUI1xgmShCv0wrSnbAGpgvdp",
       "dealer_url": "https://www.bannisterford.com/inventory/2025-ford-f-150-stx-EjUI1xgmShCv0wrSnbAGpgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T19:43:43",
+      "last_verified": "2026-10-04T15:30:59",
       "condition": "used"
     },
     {
@@ -365,7 +367,7 @@
       "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/used/e5cf17211c35.html",
       "source_url": "https://www.bannisterford.com/inventory/2025-ford-f-150-tremor-skwFwUsqRRuD4EuwS6cv3wvdp",
       "dealer_url": "https://www.bannisterford.com/inventory/2025-ford-f-150-tremor-skwFwUsqRRuD4EuwS6cv3wvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T19:43:53",
+      "last_verified": "2026-10-04T15:31:10",
       "price": 72499.0,
       "price_currency": "CAD",
       "condition": "used"
@@ -377,7 +379,7 @@
       "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/used/76d2b160ae12.html",
       "source_url": "https://www.bannisterford.com/inventory/2025-ford-transit-passenger-wagon-xl-PbQWhWh6T26aKuWlGA89tgvdp",
       "dealer_url": "https://www.bannisterford.com/inventory/2025-ford-transit-passenger-wagon-xl-PbQWhWh6T26aKuWlGA89tgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T19:44:15",
+      "last_verified": "2026-10-04T15:31:23",
       "condition": "used"
     },
     {
@@ -468,15 +470,15 @@
       "condition": "used"
     },
     {
-      "name": "86 Vehicles For Sale in Dawson Creek, BC",
-      "vin": "2G1WB5ENXA1248566",
-      "stock": "40T26-4",
+      "name": "90 Vehicles For Sale in Dawson Creek, BC",
+      "vin": "1FTMF1CM6EKF41036",
+      "stock": "38P0183",
       "color": "Gray",
       "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/used/fa223d4a1250.html",
       "source_url": "https://www.bannisterford.com/inventory/used-group/?paymentRange%5Bgte%5D=&paymentRange%5Blte%5D=20000&paymentOption=CASH",
       "dealer_url": "https://www.bannisterford.com/inventory/used-group/?paymentRange%5Bgte%5D=&paymentRange%5Blte%5D=20000&paymentOption=CASH&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T19:44:26",
-      "price": 13694.0,
+      "last_verified": "2026-10-04T15:31:35",
+      "price": 16799.0,
       "price_currency": "CAD",
       "condition": "used"
     },
