@@ -1,6 +1,6 @@
 {
   "dealership": "Bannister Ford Ltd",
-  "generated_at": "2026-10-09T22:14:20",
+  "generated_at": "2026-10-10T23:27:27",
   "vehicle_count": 142,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -727,7 +727,9 @@
       "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/bb6c30ad3fc6.html",
       "source_url": "https://www.bannisterford.com/inventory/2026-ford-bronco-sport-big-bend-SSZsO3YYTsS0wueIGDgdBQvdp",
       "dealer_url": "https://www.bannisterford.com/inventory/2026-ford-bronco-sport-big-bend-SSZsO3YYTsS0wueIGDgdBQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-02T16:22:26",
+      "last_verified": "2026-10-10T23:25:32",
+      "price": 40540.0,
+      "price_currency": "CAD",
       "condition": "new",
       "city": "Dawson Creek",
       "province": "BC"
@@ -740,7 +742,9 @@
       "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/334e88aba633.html",
       "source_url": "https://www.bannisterford.com/inventory/2026-ford-bronco-sport-outer-banks-MogwQxhwRcm9XsS6IUSs2Avdp",
       "dealer_url": "https://www.bannisterford.com/inventory/2026-ford-bronco-sport-outer-banks-MogwQxhwRcm9XsS6IUSs2Avdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-02T16:22:37",
+      "last_verified": "2026-10-10T23:25:43",
+      "price": 44185.0,
+      "price_currency": "CAD",
       "condition": "new",
       "city": "Dawson Creek",
       "province": "BC"
@@ -753,7 +757,7 @@
       "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/02422e455201.html",
       "source_url": "https://www.bannisterford.com/inventory/2026-ford-explorer-active-w-200a-pkg-s2qjx4wcQw6QhpBB033TZAvdp",
       "dealer_url": "https://www.bannisterford.com/inventory/2026-ford-explorer-active-w-200a-pkg-s2qjx4wcQw6QhpBB033TZAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-02T16:22:49",
+      "last_verified": "2026-10-10T23:25:54",
       "condition": "new",
       "city": "Dawson Creek",
       "province": "BC"
@@ -794,7 +798,9 @@
       "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/e9bd848dade2.html",
       "source_url": "https://www.bannisterford.com/inventory/2026-ford-f-150-lariat-2ExAHrViTL2R1TYCZfIVDQvdp",
       "dealer_url": "https://www.bannisterford.com/inventory/2026-ford-f-150-lariat-2ExAHrViTL2R1TYCZfIVDQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-02T16:23:14",
+      "last_verified": "2026-10-10T23:26:10",
+      "price": 80890.0,
+      "price_currency": "CAD",
       "condition": "new",
       "city": "Dawson Creek",
       "province": "BC"
@@ -807,7 +813,9 @@
       "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/48820eb32527.html",
       "source_url": "https://www.bannisterford.com/inventory/2026-ford-f-150-lariat-9X0jkLHWTEmxpupTWJe7Sgvdp",
       "dealer_url": "https://www.bannisterford.com/inventory/2026-ford-f-150-lariat-9X0jkLHWTEmxpupTWJe7Sgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-02T16:23:42",
+      "last_verified": "2026-10-10T23:26:22",
+      "price": 82514.0,
+      "price_currency": "CAD",
       "condition": "new",
       "city": "Dawson Creek",
       "province": "BC"
@@ -820,7 +828,9 @@
       "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/c5553ed29dc0.html",
       "source_url": "https://www.bannisterford.com/inventory/2026-ford-f-150-lariat-ALgoAfJiTLmTOHqEQZPSZAvdp",
       "dealer_url": "https://www.bannisterford.com/inventory/2026-ford-f-150-lariat-ALgoAfJiTLmTOHqEQZPSZAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-02T16:23:55",
+      "last_verified": "2026-10-10T23:26:35",
+      "price": 83860.0,
+      "price_currency": "CAD",
       "condition": "new",
       "city": "Dawson Creek",
       "province": "BC"
@@ -833,7 +843,9 @@
       "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/ed24f57cbba4.html",
       "source_url": "https://www.bannisterford.com/inventory/2026-ford-f-150-lariat-C6KI0D03ToeeuHTqOQDw7Qvdp",
       "dealer_url": "https://www.bannisterford.com/inventory/2026-ford-f-150-lariat-C6KI0D03ToeeuHTqOQDw7Qvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-02T16:24:08",
+      "last_verified": "2026-10-10T23:26:49",
+      "price": 81040.0,
+      "price_currency": "CAD",
       "condition": "new",
       "city": "Dawson Creek",
       "province": "BC"
@@ -846,7 +858,9 @@
       "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/46370eee65d4.html",
       "source_url": "https://www.bannisterford.com/inventory/2026-ford-f-150-lariat-GJxspIv0TYyG7BwgZAicPAvdp",
       "dealer_url": "https://www.bannisterford.com/inventory/2026-ford-f-150-lariat-GJxspIv0TYyG7BwgZAicPAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-02T16:24:20",
+      "last_verified": "2026-10-10T23:26:59",
+      "price": 81040.0,
+      "price_currency": "CAD",
       "condition": "new",
       "city": "Dawson Creek",
       "province": "BC"
@@ -859,7 +873,9 @@
       "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/5a98aad504e5.html",
       "source_url": "https://www.bannisterford.com/inventory/2026-ford-f-150-lariat-HBbGN1hFRPCicWx3pnMphAvdp",
       "dealer_url": "https://www.bannisterford.com/inventory/2026-ford-f-150-lariat-HBbGN1hFRPCicWx3pnMphAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-02T16:24:31",
+      "last_verified": "2026-10-10T23:27:10",
+      "price": 80890.0,
+      "price_currency": "CAD",
       "condition": "new",
       "city": "Dawson Creek",
       "province": "BC"
@@ -872,7 +888,9 @@
       "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/efcd4cbec5a6.html",
       "source_url": "https://www.bannisterford.com/inventory/2026-ford-f-150-lariat-HFZaVHE7QAOPprCySfZcbwvdp",
       "dealer_url": "https://www.bannisterford.com/inventory/2026-ford-f-150-lariat-HFZaVHE7QAOPprCySfZcbwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-02T16:24:44",
+      "last_verified": "2026-10-10T23:27:22",
+      "price": 84160.0,
+      "price_currency": "CAD",
       "condition": "new",
       "city": "Dawson Creek",
       "province": "BC"
@@ -1434,9 +1452,7 @@
       "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/abad9ec47d5d.html",
       "source_url": "https://www.bannisterford.com/inventory/2026-ford-maverick-xlt-5g5YRkcpQbaqSdcLwxk83Avdp",
       "dealer_url": "https://www.bannisterford.com/inventory/2026-ford-maverick-xlt-5g5YRkcpQbaqSdcLwxk83Avdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T20:05:59",
-      "price": 39134.0,
-      "price_currency": "CAD",
+      "last_verified": "2026-10-10T23:24:47",
       "condition": "new",
       "city": "Dawson Creek",
       "province": "BC"
@@ -1715,7 +1731,7 @@
       "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/4e1cbc328dc5.html",
       "source_url": "https://www.bannisterford.com/inventory/2027-ford-explorer-platinum-HFKxwYl1Su2IYE5J7Y9yhwvdp",
       "dealer_url": "https://www.bannisterford.com/inventory/2027-ford-explorer-platinum-HFKxwYl1Su2IYE5J7Y9yhwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-02T16:21:50",
+      "last_verified": "2026-10-10T23:24:58",
       "condition": "new",
       "city": "Dawson Creek",
       "province": "BC"
@@ -1884,7 +1900,7 @@
       "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/1cbe50500ae8.html",
       "source_url": "https://www.bannisterford.com/inventory/2027-ford-transit-cargo-van-4uG0nGKBTkmpzHGZKfkergvdp",
       "dealer_url": "https://www.bannisterford.com/inventory/2027-ford-transit-cargo-van-4uG0nGKBTkmpzHGZKfkergvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-02T16:22:01",
+      "last_verified": "2026-10-10T23:25:10",
       "condition": "new",
       "city": "Dawson Creek",
       "province": "BC"
@@ -1897,7 +1913,7 @@
       "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/b58414b86aee.html",
       "source_url": "https://www.bannisterford.com/inventory/2027-ford-transit-passenger-wagon-xl-FTmuhTYrRDuvX4QUPqzJ1Qvdp",
       "dealer_url": "https://www.bannisterford.com/inventory/2027-ford-transit-passenger-wagon-xl-FTmuhTYrRDuvX4QUPqzJ1Qvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-02T16:22:12",
+      "last_verified": "2026-10-10T23:25:20",
       "condition": "new",
       "city": "Dawson Creek",
       "province": "BC"
