@@ -1,6 +1,6 @@
 {
   "dealership": "Bannister Ford Ltd",
-  "generated_at": "2026-10-18T21:19:05",
+  "generated_at": "2026-10-20T13:35:42",
   "vehicle_count": 159,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -398,8 +398,8 @@
       "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/used/5462b9ddec5b.html",
       "source_url": "https://www.bannisterford.com/inventory/2024-chevrolet-blazer-rs-ppY0FbumTBSsMD9HirWcvwvdp",
       "dealer_url": "https://www.bannisterford.com/inventory/2024-chevrolet-blazer-rs-ppY0FbumTBSsMD9HirWcvwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-08T21:57:28",
-      "price": 41999.0,
+      "last_verified": "2026-10-20T13:35:20",
+      "price": 41499.0,
       "price_currency": "CAD",
       "condition": "used",
       "city": "Dawson Creek",
@@ -493,7 +493,7 @@
       "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/used/2da35cfffe13.html",
       "source_url": "https://www.bannisterford.com/inventory/2024-ram-3500-laramie-NLcUC0HQTM6CApFHswzO0gvdp",
       "dealer_url": "https://www.bannisterford.com/inventory/2024-ram-3500-laramie-NLcUC0HQTM6CApFHswzO0gvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-08T21:57:39",
+      "last_verified": "2026-10-20T13:35:31",
       "condition": "used",
       "city": "Dawson Creek",
       "province": "BC"
@@ -760,7 +760,9 @@
       "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/used/db52cc51998c.html",
       "source_url": "https://www.bannisterford.com/inventory/2027-ford-super-duty-f-250-srw-lariat-IQwfHfO7TeeOqnBg6J6o1Qvdp",
       "dealer_url": "https://www.bannisterford.com/inventory/2027-ford-super-duty-f-250-srw-lariat-IQwfHfO7TeeOqnBg6J6o1Qvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-08T21:57:15",
+      "last_verified": "2026-10-20T13:35:07",
+      "price": 114099.0,
+      "price_currency": "CAD",
       "condition": "used",
       "city": "Dawson Creek",
       "province": "BC"
