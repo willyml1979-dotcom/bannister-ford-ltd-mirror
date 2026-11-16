@@ -1,7 +1,7 @@
 {
   "dealership": "Bannister Ford Ltd",
-  "generated_at": "2026-10-25T20:42:37",
-  "vehicle_count": 161,
+  "generated_at": "2026-11-16T15:40:23",
+  "vehicle_count": 240,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -436,10 +436,12 @@
       "price_currency": "CAD"
     },
     {
-      "name": "New2025FordF-150STX",
+      "name": "Used2025FordF-150STX",
       "vin": "1FTEW2L56SFC07709",
       "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/2910bc7a0ed1.html",
-      "condition": "new"
+      "condition": "new",
+      "price": 78748.0,
+      "price_currency": "CAD"
     },
     {
       "name": "New2026FordBroncoBig Bend",
@@ -449,8 +451,26 @@
     },
     {
       "name": "New2026FordBroncoBig Bend",
+      "vin": "1FMDE7BH6TLB37974",
+      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/76414933c1c8.html",
+      "condition": "new"
+    },
+    {
+      "name": "New2026FordBroncoBig Bend",
       "vin": "1FMDE7BH5TLB33415",
       "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/3bc387e03b57.html",
+      "condition": "new"
+    },
+    {
+      "name": "New2026FordBroncoBig Bend",
+      "vin": "1FMDE7BH5TLB33415",
+      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/fc2a40e1e747.html",
+      "condition": "new"
+    },
+    {
+      "name": "New2026FordBroncoOuter Banks",
+      "vin": "1FMEE8BH3TLB33357",
+      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/3451b6a85678.html",
       "condition": "new"
     },
     {
@@ -460,11 +480,25 @@
       "condition": "new"
     },
     {
+      "name": "New2026FordBroncoOuter Banks",
+      "vin": "1FMDE8BH4TLA43808",
+      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/05d05e941073.html",
+      "condition": "new"
+    },
+    {
       "name": "New2026FordBronco SportBig Bend",
       "vin": "3FMCR9BNXTRF12137",
       "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/cbaff56a58fd.html",
       "condition": "new",
-      "price": 40195.0,
+      "price": 43195.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New2026FordBronco SportBig Bend",
+      "vin": "3FMCR9BNXTRF12137",
+      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/30d4ea6eb706.html",
+      "condition": "new",
+      "price": 43195.0,
       "price_currency": "CAD"
     },
     {
@@ -477,10 +511,34 @@
     },
     {
       "name": "New2026FordBronco SportBig Bend",
+      "vin": "3FMCR9BN4TRF24834",
+      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/e5b9245a40e9.html",
+      "condition": "new",
+      "price": 44339.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New2026FordBronco SportBig Bend",
       "vin": "3FMCR9BN8TRE10593",
       "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/89b267e2de76.html",
       "condition": "new",
-      "price": 42080.0,
+      "price": 44052.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New2026FordBronco SportBig Bend",
+      "vin": "3FMCR9BN8TRE10593",
+      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/ef7cf06f27e5.html",
+      "condition": "new",
+      "price": 44052.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New2026FordBronco SportBig Bend",
+      "vin": "3FMCR9BN6TRF24835",
+      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/9c323544cf57.html",
+      "condition": "new",
+      "price": 44339.0,
       "price_currency": "CAD"
     },
     {
@@ -492,11 +550,33 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New2026FordBronco SportBig Bend",
+      "vin": "3FMCR9BN2TRE49731",
+      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/4548045f047c.html",
+      "condition": "new",
+      "price": 42915.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "New2026FordBronco SportOuter Banks",
       "vin": "3FMCR9CN1TRE84954",
       "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/334e88aba633.html",
       "condition": "new",
       "price": 44185.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New2026FordBronco SportOuter Banks",
+      "vin": "3FMCR9CN1TRE84954",
+      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/d61b1369e8bc.html",
+      "condition": "new"
+    },
+    {
+      "name": "New2026FordBronco SportOuter Banks",
+      "vin": "3FMCR9CN3TRF34754",
+      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/6f899d373e6c.html",
+      "condition": "new",
+      "price": 47379.0,
       "price_currency": "CAD"
     },
     {
@@ -506,11 +586,35 @@
       "condition": "new"
     },
     {
+      "name": "New2026FordExplorerTremor",
+      "vin": "1FMWK8JC8TGC08095",
+      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/544aeae254f1.html",
+      "condition": "new",
+      "price": 70045.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "New2026FordF-150Lariat",
       "vin": "1FTFW5L87TFA51813",
       "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/912484f48925.html",
       "condition": "new",
       "price": 86600.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New2026FordF-150Lariat",
+      "vin": "1FTFW5L87TFA51813",
+      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/aedb9365fe52.html",
+      "condition": "new",
+      "price": 93850.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New2026FordF-150Lariat",
+      "vin": "1FTFW5L54TFC47245",
+      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/46f5381d7944.html",
+      "condition": "new",
+      "price": 91589.0,
       "price_currency": "CAD"
     },
     {
@@ -523,6 +627,22 @@
     },
     {
       "name": "New2026FordF-150Lariat",
+      "vin": "1FTFW5L87TFB55749",
+      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/23ceaf0c423d.html",
+      "condition": "new",
+      "price": 81796.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New2026FordF-150Lariat",
+      "vin": "1FTFW5L85TFC27452",
+      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/cf9ff4825962.html",
+      "condition": "new",
+      "price": 90814.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New2026FordF-150Lariat",
       "vin": "1FTFW5L89TFB79213",
       "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/48820eb32527.html",
       "condition": "new",
@@ -531,10 +651,26 @@
     },
     {
       "name": "New2026FordF-150Lariat",
+      "vin": "1FTFW5L89TFB79213",
+      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/9bab39166745.html",
+      "condition": "new",
+      "price": 89764.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New2026FordF-150Lariat",
       "vin": "1FTFW5L89TKD66619",
       "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/c5553ed29dc0.html",
       "condition": "new",
       "price": 83860.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New2026FordF-150Lariat",
+      "vin": "1FTFW5L89TKD66619",
+      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/682033e05786.html",
+      "condition": "new",
+      "price": 84469.0,
       "price_currency": "CAD"
     },
     {
@@ -555,10 +691,26 @@
     },
     {
       "name": "New2026FordF-150Lariat",
+      "vin": "1FTFW5L86TKE33855",
+      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/67104ad3da9b.html",
+      "condition": "new",
+      "price": 88290.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New2026FordF-150Lariat",
       "vin": "1FTFW5L81TFB10371",
       "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/5a98aad504e5.html",
       "condition": "new",
       "price": 80890.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New2026FordF-150Lariat",
+      "vin": "1FTFW5L81TFB10371",
+      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/ec5c8b8cabc5.html",
+      "condition": "new",
+      "price": 82395.0,
       "price_currency": "CAD"
     },
     {
@@ -571,10 +723,34 @@
     },
     {
       "name": "New2026FordF-150Lariat",
+      "vin": "1FTFW5L89TKD77605",
+      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/dd4746c1732f.html",
+      "condition": "new",
+      "price": 91410.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New2026FordF-150Lariat",
+      "vin": "1FTFW5L50TFC46495",
+      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/76f0ac457aac.html",
+      "condition": "new",
+      "price": 97270.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New2026FordF-150Lariat",
       "vin": "1FTFW5L86TKE65513",
       "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/042ea2c2df0b.html",
       "condition": "new",
       "price": 84734.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New2026FordF-150Lariat",
+      "vin": "1FTFW5L86TKE65513",
+      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/42962868c5b8.html",
+      "condition": "new",
+      "price": 91984.0,
       "price_currency": "CAD"
     },
     {
@@ -595,10 +771,26 @@
     },
     {
       "name": "New2026FordF-150Lariat",
+      "vin": "1FTFW5L85TFB99457",
+      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/1dc4db845a1c.html",
+      "condition": "new",
+      "price": 95469.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New2026FordF-150Lariat",
       "vin": "1FTFW5L8XTFB54658",
       "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/bf4547c11254.html",
       "condition": "new",
       "price": 82514.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New2026FordF-150Lariat",
+      "vin": "1FTFW5L8XTFB54658",
+      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/103b64634c81.html",
+      "condition": "new",
+      "price": 89764.0,
       "price_currency": "CAD"
     },
     {
@@ -611,10 +803,26 @@
     },
     {
       "name": "New2026FordF-150Lariat",
+      "vin": "1FTFW5L81TKF02404",
+      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/550bc38be4aa.html",
+      "condition": "new",
+      "price": 89064.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New2026FordF-150Lariat",
       "vin": "1FTFW5L8XTFB78619",
       "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/0d8a0cb18e6d.html",
       "condition": "new",
       "price": 83564.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New2026FordF-150Lariat",
+      "vin": "1FTFW5L8XTFB78619",
+      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/ad6197e02af7.html",
+      "condition": "new",
+      "price": 90814.0,
       "price_currency": "CAD"
     },
     {
@@ -635,10 +843,26 @@
     },
     {
       "name": "New2026FordF-150Lariat",
+      "vin": "1FTFW5L83TFC10410",
+      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/43d9f30dbc53.html",
+      "condition": "new",
+      "price": 90814.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New2026FordF-150Lariat",
       "vin": "1FTFW5L87TKE33945",
       "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/77d5f7a11f46.html",
       "condition": "new",
       "price": 81040.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New2026FordF-150Lariat",
+      "vin": "1FTFW5L84TFC49927",
+      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/104ced1b2195.html",
+      "condition": "new",
+      "price": 87814.0,
       "price_currency": "CAD"
     },
     {
@@ -659,10 +883,34 @@
     },
     {
       "name": "New2026FordF-150Lariat",
+      "vin": "1FTFW5L86TKE54043",
+      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/e819c6cce964.html",
+      "condition": "new",
+      "price": 89064.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New2026FordF-150Lariat",
       "vin": "1FTFW5L85TKE33720",
       "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/b07ec627ed14.html",
       "condition": "new",
       "price": 81040.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New2026FordF-150Lariat",
+      "vin": "1FTFW5L83TFC25988",
+      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/3e527e87a308.html",
+      "condition": "new",
+      "price": 88439.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New2026FordF-150Lariat",
+      "vin": "1FTFW5L82TFC29823",
+      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/6cb61c457e1d.html",
+      "condition": "new",
+      "price": 88439.0,
       "price_currency": "CAD"
     },
     {
@@ -691,6 +939,14 @@
     },
     {
       "name": "New2026FordF-150Lariat",
+      "vin": "1FTFW5L83TFB54873",
+      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/985ed8ff7eb0.html",
+      "condition": "new",
+      "price": 85193.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New2026FordF-150Lariat",
       "vin": "1FTFW5L84TKF02011",
       "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/09a481a1261b.html",
       "condition": "new",
@@ -699,10 +955,34 @@
     },
     {
       "name": "New2026FordF-150Lariat",
+      "vin": "1FTFW5L84TKF02011",
+      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/87cbb5cd04d0.html",
+      "condition": "new",
+      "price": 88439.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New2026FordF-150Lariat",
       "vin": "1FTFW5L86TFC06450",
       "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/e1f4f6a9bd97.html",
       "condition": "new",
       "price": 81989.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New2026FordF-150Lariat",
+      "vin": "1FTFW5L56TFC40720",
+      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/3a867d5a917f.html",
+      "condition": "new",
+      "price": 99430.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New2026FordF-150Lariat",
+      "vin": "1FTFW5L8XTFC28192",
+      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/233cacee46b8.html",
+      "condition": "new",
+      "price": 88439.0,
       "price_currency": "CAD"
     },
     {
@@ -723,10 +1003,26 @@
     },
     {
       "name": "New2026FordF-150Lariat",
+      "vin": "1FTFW5L85TKF22154",
+      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/9454e1a6fff1.html",
+      "condition": "new",
+      "price": 90784.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New2026FordF-150Lariat",
       "vin": "1FTFW5L81TFA56280",
       "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/2d9d47406152.html",
       "condition": "new",
       "price": 68809.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New2026FordF-150Lariat",
+      "vin": "1FTFW5L81TFA56280",
+      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/6f3a174ac84f.html",
+      "condition": "new",
+      "price": 84059.0,
       "price_currency": "CAD"
     },
     {
@@ -738,11 +1034,27 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New2026FordF-150Platinum",
+      "vin": "1FTFW7L84TFB51444",
+      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/badf67361fb4.html",
+      "condition": "new",
+      "price": 112029.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "New2026FordF-150Tremor",
       "vin": "1FTFW4L84TFC11186",
       "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/5bd2c15bcc02.html",
       "condition": "new",
       "price": 79024.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New2026FordF-150Tremor",
+      "vin": "1FTFW4L5XTFC19542",
+      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/fca233553c8b.html",
+      "condition": "new",
+      "price": 87574.0,
       "price_currency": "CAD"
     },
     {
@@ -769,6 +1081,12 @@
     },
     {
       "name": "New2026FordF-150Tremor",
+      "vin": "1FTFW4L84TFB45870",
+      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/2ead8406a14f.html",
+      "condition": "new"
+    },
+    {
+      "name": "New2026FordF-150Tremor",
       "vin": "1FTFW4L8XTFB50877",
       "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/4c24d23b5be8.html",
       "condition": "new",
@@ -777,9 +1095,27 @@
     },
     {
       "name": "New2026FordF-150Tremor",
+      "vin": "1FTFW4L8XTFB50877",
+      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/1dff66768cca.html",
+      "condition": "new",
+      "price": 87850.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New2026FordF-150Tremor",
       "vin": "1FTFW4L89TFC04797",
       "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/d27d2082b1f7.html",
-      "condition": "new"
+      "condition": "new",
+      "price": 98894.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New2026FordF-150Tremor",
+      "vin": "1FTFW4L89TFC04797",
+      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/8224a1a24aac.html",
+      "condition": "new",
+      "price": 98894.0,
+      "price_currency": "CAD"
     },
     {
       "name": "New2026FordF-150Tremor",
@@ -796,11 +1132,25 @@
       "condition": "new"
     },
     {
+      "name": "New2026FordF-150XL Hybrid",
+      "vin": "1FTFW1FD8TFB51629",
+      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/f29eb6b8a683.html",
+      "condition": "new"
+    },
+    {
       "name": "New2026FordF-150XLT",
       "vin": "1FTFW3L82TKE39897",
       "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/da61e9cc98ca.html",
       "condition": "new",
       "price": 67092.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New2026FordF-150XLT",
+      "vin": "1FTFW3L82TKE39897",
+      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/ca05082be366.html",
+      "condition": "new",
+      "price": 74342.0,
       "price_currency": "CAD"
     },
     {
@@ -813,10 +1163,26 @@
     },
     {
       "name": "New2026FordF-150XLT",
+      "vin": "1FTFW3L85TKE42759",
+      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/6d9020eb0296.html",
+      "condition": "new",
+      "price": 75732.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New2026FordF-150XLT",
       "vin": "1FTFW3L81TKE03263",
       "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/98214e999201.html",
       "condition": "new",
       "price": 69229.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New2026FordF-150XLT",
+      "vin": "1FTFW3L81TKE03263",
+      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/5823ef61fbb6.html",
+      "condition": "new",
+      "price": 76479.0,
       "price_currency": "CAD"
     },
     {
@@ -845,10 +1211,26 @@
     },
     {
       "name": "New2026FordF-150XLT",
+      "vin": "1FTFW3L81TKD42254",
+      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/c899eb1f2f91.html",
+      "condition": "new",
+      "price": 74130.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New2026FordF-150XLT",
       "vin": "1FTFW3L84TKE41599",
       "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/24df41bfe3cd.html",
       "condition": "new",
       "price": 66788.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New2026FordF-150XLT",
+      "vin": "1FTFW3L84TKE41599",
+      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/dcefc4d21d8d.html",
+      "condition": "new",
+      "price": 74038.0,
       "price_currency": "CAD"
     },
     {
@@ -859,9 +1241,25 @@
     },
     {
       "name": "New2026FordF-150XLT",
+      "vin": "1FTFW3L89TKF52374",
+      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/e3ac9100e778.html",
+      "condition": "new",
+      "price": 88610.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New2026FordF-150XLT",
       "vin": "1FTFW3L84TKF01008",
       "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/e1c14f53bc09.html",
       "condition": "new"
+    },
+    {
+      "name": "New2026FordF-150XLT",
+      "vin": "1FTFW3L84TKF01008",
+      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/e7bacbccd2ff.html",
+      "condition": "new",
+      "price": 84895.0,
+      "price_currency": "CAD"
     },
     {
       "name": "New2026FordF-150XLT",
@@ -873,15 +1271,43 @@
     },
     {
       "name": "New2026FordF-150XLT",
+      "vin": "1FTFW3L81TKE09449",
+      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/b1d8fa407484.html",
+      "condition": "new",
+      "price": 82525.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New2026FordF-150XLT",
       "vin": "1FTFW3L8XTKE41638",
       "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/d141eaf9ed96.html",
-      "condition": "new"
+      "condition": "new",
+      "price": 74837.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New2026FordF-150XLT",
+      "vin": "1FTFW3L8XTKE41638",
+      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/cd19e1a8aec8.html",
+      "condition": "new",
+      "price": 74837.0,
+      "price_currency": "CAD"
     },
     {
       "name": "New2026FordF-150XLT",
       "vin": "1FTFW3L58TKE65524",
       "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/19366e83e2da.html",
-      "condition": "new"
+      "condition": "new",
+      "price": 83810.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New2026FordF-150XLT",
+      "vin": "1FTFW3L58TKE65524",
+      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/1e59ad48d09b.html",
+      "condition": "new",
+      "price": 83810.0,
+      "price_currency": "CAD"
     },
     {
       "name": "New2026FordMaverickXLT",
@@ -891,8 +1317,24 @@
     },
     {
       "name": "New2026FordMaverickXLT",
+      "vin": "3FTTW8JA4TRA81221",
+      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/436066de06b8.html",
+      "condition": "new",
+      "price": 41111.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New2026FordMaverickXLT",
       "vin": "3FTTW8JA8TRA96451",
       "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/5000f7e1040a.html",
+      "condition": "new",
+      "price": 43430.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New2026FordMaverickXLT",
+      "vin": "3FTTW8JA8TRA96451",
+      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/e9bc9e97fdd4.html",
       "condition": "new",
       "price": 43430.0,
       "price_currency": "CAD"
@@ -912,6 +1354,14 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New2026FordRangerLARIAT",
+      "vin": "1FTER4KP4TLE22580",
+      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/e4bd44e4f3fb.html",
+      "condition": "new",
+      "price": 58746.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "New2026FordRangerXL",
       "vin": "1FTER4PH7TLE22798",
       "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/38dacc00e6c1.html",
@@ -922,6 +1372,14 @@
       "vin": "1FTER4PHXTLE47341",
       "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/6333b03c8742.html",
       "condition": "new"
+    },
+    {
+      "name": "New2026FordRangerXL",
+      "vin": "1FTER4PHXTLE47341",
+      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/df12256cc85d.html",
+      "condition": "new",
+      "price": 45765.0,
+      "price_currency": "CAD"
     },
     {
       "name": "New2026FordRangerXL",
@@ -938,22 +1396,58 @@
       "condition": "new"
     },
     {
+      "name": "New2026FordRangerXL",
+      "vin": "1FTER4PH2TLE47480",
+      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/f7c1fcebf281.html",
+      "condition": "new",
+      "price": 45765.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "New2026FordRangerXLT",
       "vin": "1FTER4HH5TLE31451",
       "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/65429b026a34.html",
-      "condition": "new"
+      "condition": "new",
+      "price": 51570.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New2026FordRangerXLT",
+      "vin": "1FTER4HH5TLE31451",
+      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/07ba8b60c2be.html",
+      "condition": "new",
+      "price": 51570.0,
+      "price_currency": "CAD"
     },
     {
       "name": "New2026FordRangerXLT",
       "vin": "1FTER4HH4TLE29478",
       "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/2964bcda03e8.html",
-      "condition": "new"
+      "condition": "new",
+      "price": 54474.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New2026FordRangerXLT",
+      "vin": "1FTER4HH4TLE29478",
+      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/27dbf9519434.html",
+      "condition": "new",
+      "price": 54474.0,
+      "price_currency": "CAD"
     },
     {
       "name": "New2026FordRangerXLT",
       "vin": "1FTER4HH3TLE31979",
       "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/01e8d385a68d.html",
       "condition": "new"
+    },
+    {
+      "name": "New2026FordRangerXLT",
+      "vin": "1FTER4HH3TLE31979",
+      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/7c72f9736f05.html",
+      "condition": "new",
+      "price": 53275.0,
+      "price_currency": "CAD"
     },
     {
       "name": "New2026FordSuper Duty F-250 SRWXLT",
@@ -973,10 +1467,26 @@
     },
     {
       "name": "New2026FordSuper Duty F-350 SRWLariat",
+      "vin": "1FT8W3BM8TEE13939",
+      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/5796acbc44eb.html",
+      "condition": "new",
+      "price": 124712.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New2026FordSuper Duty F-350 SRWLariat",
       "vin": "1FT8W3BT9TEE82081",
       "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/ea0944e789b1.html",
       "condition": "new",
       "price": 98172.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New2026FordSuper Duty F-350 SRWPlatinum",
+      "vin": "1FT8W3BT9TED96818",
+      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/bf5fafce0e0f.html",
+      "condition": "new",
+      "price": 119874.0,
       "price_currency": "CAD"
     },
     {
@@ -1006,9 +1516,21 @@
       "condition": "new"
     },
     {
+      "name": "New2027FordExpeditionActive Max",
+      "vin": "1FMJK1J80VEA05259",
+      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/24d87667debd.html",
+      "condition": "new"
+    },
+    {
       "name": "New2027FordExpeditionKing Ranch",
       "vin": "1FMJU1P84VEA23278",
       "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/8123d99c3d04.html",
+      "condition": "new"
+    },
+    {
+      "name": "New2027FordExpeditionKing Ranch",
+      "vin": "1FMJU1P84VEA23278",
+      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/b24b48c3c810.html",
       "condition": "new"
     },
     {
@@ -1019,8 +1541,20 @@
     },
     {
       "name": "New2027FordExplorerActive w/200A Pkg",
+      "vin": "1FMUK8DH9VGA04892",
+      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/5447eeecbf9f.html",
+      "condition": "new"
+    },
+    {
+      "name": "New2027FordExplorerActive w/200A Pkg",
       "vin": "1FMUK8DHXVGA05226",
       "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/949315982c4b.html",
+      "condition": "new"
+    },
+    {
+      "name": "New2027FordExplorerActive w/200A Pkg",
+      "vin": "1FMUK8DHXVGA05226",
+      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/2746e4755a20.html",
       "condition": "new"
     },
     {
@@ -1030,9 +1564,21 @@
       "condition": "new"
     },
     {
+      "name": "New2027FordExplorerPlatinum",
+      "vin": "1FMUK8HH2VGA06722",
+      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/5e7d47053008.html",
+      "condition": "new"
+    },
+    {
       "name": "New2027FordExplorerST-Line",
       "vin": "1FMUK8KH4VGA05421",
       "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/18153db56953.html",
+      "condition": "new"
+    },
+    {
+      "name": "New2027FordExplorerST-Line",
+      "vin": "1FMUK8KH4VGA05421",
+      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/d50eeb2e0c6e.html",
       "condition": "new"
     },
     {
@@ -1049,6 +1595,12 @@
     },
     {
       "name": "New2027FordExplorerST-Line",
+      "vin": "1FMUK8KH8VGA36283",
+      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/67441fb08de4.html",
+      "condition": "new"
+    },
+    {
+      "name": "New2027FordExplorerST-Line",
       "vin": "1FMUK8KH2VGA29345",
       "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/2ad1bbde0b8c.html",
       "condition": "new"
@@ -1060,9 +1612,21 @@
       "condition": "new"
     },
     {
+      "name": "New2027FordExplorerST-Line",
+      "vin": "1FMUK8KHXVGA35880",
+      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/716363df726b.html",
+      "condition": "new"
+    },
+    {
       "name": "New2027FordExplorerTremor",
       "vin": "1FMUK8JH5VGA05073",
       "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/73597fc3d0b6.html",
+      "condition": "new"
+    },
+    {
+      "name": "New2027FordExplorerTremor",
+      "vin": "1FMUK8JH5VGA05073",
+      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/31fb4ab36569.html",
       "condition": "new"
     },
     {
@@ -1095,6 +1659,12 @@
     },
     {
       "name": "New2027FordSuper Duty F-350 SRWPlatinum",
+      "vin": "1FT8W3BMXVEC18010",
+      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/123e6212369f.html",
+      "condition": "new"
+    },
+    {
+      "name": "New2027FordSuper Duty F-350 SRWPlatinum",
       "vin": "1FT8W3BM7VEC65902",
       "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/42298e9dc387.html",
       "condition": "new"
@@ -1108,9 +1678,21 @@
       "price_currency": "CAD"
     },
     {
-      "name": "New2027FordSuper Duty F-550 DRWXLT",
-      "vin": "1FD0X5HT9VEC53279",
-      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/e323f16222c8.html",
+      "name": "New2027FordSuper Duty F-350 SRWXLT",
+      "vin": "1FT8W3BM6VEC41879",
+      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/fd8bd7fb83f1.html",
+      "condition": "new"
+    },
+    {
+      "name": "New2027FordSuper Duty F-350 SRWXLT",
+      "vin": "2FT8W3BNXVBA03750",
+      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/98a776afe053.html",
+      "condition": "new"
+    },
+    {
+      "name": "New2027FordSuper Duty F-450 DRWKing Ranch",
+      "vin": "1FT8W4DM2VEC65308",
+      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/32ffd7e6b9cb.html",
       "condition": "new"
     },
     {
@@ -1121,8 +1703,20 @@
     },
     {
       "name": "New2027FordSuper Duty F-550 DRWXLT",
+      "vin": "1FD0W5HT0VEC17774",
+      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/e9ca3928cab1.html",
+      "condition": "new"
+    },
+    {
+      "name": "New2027FordSuper Duty F-550 DRWXLT",
       "vin": "1FDSW5HT4VEC18435",
       "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/8b34d8ebe37b.html",
+      "condition": "new"
+    },
+    {
+      "name": "New2027FordSuper Duty F-550 DRWXLT",
+      "vin": "1FDSW5HT4VEC18435",
+      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/4dfb1defd440.html",
       "condition": "new"
     },
     {
@@ -1138,17 +1732,23 @@
       "condition": "new"
     },
     {
+      "name": "New2027FordTransit Cargo Van",
+      "vin": "1FTBR1Y81VKA10496",
+      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/019028c22210.html",
+      "condition": "new"
+    },
+    {
       "name": "New2027FordTransit Passenger WagonXL",
       "vin": "1FBAX9CGXVKA09365",
       "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/b58414b86aee.html",
       "condition": "new"
     },
     {
-      "name": "89 Vehicles For Sale in Dawson Creek, BC",
+      "name": "86 Vehicles For Sale in Dawson Creek, BC",
       "vin": "1FTMF1CM6EKF41036",
       "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/fa223d4a1250.html",
       "condition": "new",
-      "price": 16499.0,
+      "price": 14397.0,
       "price_currency": "CAD"
     }
   ]
