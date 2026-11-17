@@ -1,7 +1,7 @@
 {
   "dealership": "Bannister Ford Ltd",
-  "generated_at": "2026-11-16T15:40:23",
-  "vehicle_count": 240,
+  "generated_at": "2026-11-16T18:49:02",
+  "vehicle_count": 270,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -20,11 +20,25 @@
       "condition": "used"
     },
     {
+      "name": "Used2015FordF-150XLT",
+      "vin": "1FTEX1EPXFFA17164",
+      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/used/779efd86d5a4.html",
+      "condition": "used"
+    },
+    {
       "name": "Used2017FordExpeditionXLT",
       "vin": "1FMJU1JT3HEA22513",
       "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/used/e883aedb3d17.html",
       "condition": "used",
       "price": 12299.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Used2017FordExpeditionXLT",
+      "vin": "1FMJU1JT3HEA22513",
+      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/used/0e7074d0c49a.html",
+      "condition": "used",
+      "price": 10987.0,
       "price_currency": "CAD"
     },
     {
@@ -36,6 +50,14 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Used2017GMCYukonSLT",
+      "vin": "1GKS2BKC5HR223152",
+      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/used/4092edb1a228.html",
+      "condition": "used",
+      "price": 28771.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Used2018FordExpeditionXLT",
       "vin": "1FMJU1JT3JEA35462",
       "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/used/4f908ed2a21e.html",
@@ -44,12 +66,10 @@
       "price_currency": "CAD"
     },
     {
-      "name": "Used2018FordF-150XLT",
-      "vin": "1FTFW1E57JFC58100",
-      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/used/21d05897fa21.html",
-      "condition": "used",
-      "price": 31999.0,
-      "price_currency": "CAD"
+      "name": "Used2018FordF-150Lariat",
+      "vin": "1FTEW1EG1JFA39100",
+      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/used/0f16f2a1441a.html",
+      "condition": "used"
     },
     {
       "name": "Used2018FordF-53 Motorhome Stripped Chassis",
@@ -64,6 +84,26 @@
       "condition": "used",
       "price": 21499.0,
       "price_currency": "CAD"
+    },
+    {
+      "name": "Used2019Ram1500 ClassicSLT",
+      "vin": "1C6RR7LM1KS682857",
+      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/used/4ed8787d27e2.html",
+      "condition": "used",
+      "price": 19597.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Used2020FordExpeditionLimited",
+      "vin": "1FMJU2AT6LEA87046",
+      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/used/17cfefeee6ca.html",
+      "condition": "used"
+    },
+    {
+      "name": "Used2020Ram3500Laramie",
+      "vin": "3C63R3JL9LG271546",
+      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/used/b28655a02867.html",
+      "condition": "used"
     },
     {
       "name": "Used2020VolkswagenTiguanTrendline",
@@ -88,6 +128,14 @@
       "condition": "used"
     },
     {
+      "name": "Used2021FordEdgeSEL",
+      "vin": "2FMPK4J98MBA08747",
+      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/used/8ab07bc9a9a0.html",
+      "condition": "used",
+      "price": 26558.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Used2022BuickEnvisionPreferred",
       "vin": "LRBFZMR42ND152681",
       "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/used/65484578ea18.html",
@@ -103,6 +151,14 @@
     },
     {
       "name": "Used2022FordExpeditionPlatinum Max",
+      "vin": "1FMJK1MT3NEA39146",
+      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/used/fa05c8bd30e9.html",
+      "condition": "used",
+      "price": 60287.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Used2022FordExpeditionPlatinum Max",
       "vin": "1FMJK1MT2NEA60683",
       "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/used/7b1aa72e34b7.html",
       "condition": "used",
@@ -110,11 +166,11 @@
       "price_currency": "CAD"
     },
     {
-      "name": "Used2022FordF-150XLT",
-      "vin": "1FTFW1E58NKD72345",
-      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/used/b8d31bf7bb65.html",
+      "name": "Used2022FordExpeditionPlatinum Max",
+      "vin": "1FMJK1MT2NEA60683",
+      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/used/49a6389a8713.html",
       "condition": "used",
-      "price": 35999.0,
+      "price": 57258.0,
       "price_currency": "CAD"
     },
     {
@@ -124,17 +180,19 @@
       "condition": "used"
     },
     {
-      "name": "Used2022GMCSierra 1500SLE",
-      "vin": "3GTPUBEK1NG664285",
-      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/used/fa8bd4307388.html",
-      "condition": "used"
-    },
-    {
       "name": "Used2022Ram1500Laramie",
       "vin": "1C6SRFJT3NN472558",
       "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/used/033f16095b67.html",
       "condition": "used",
       "price": 45999.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Used2022Ram1500Laramie",
+      "vin": "1C6SRFJT3NN472558",
+      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/used/3ee6a2d01016.html",
+      "condition": "used",
+      "price": 43887.0,
       "price_currency": "CAD"
     },
     {
@@ -154,6 +212,26 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Used2023ChryslerPacificaTouring L",
+      "vin": "2C4RC3BG6PR565654",
+      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/used/dd214bd96e09.html",
+      "condition": "used",
+      "price": 31887.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Used2023FordBroncoWildtrak",
+      "vin": "1FMEE5DPXPLB66431",
+      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/used/78231ca5bcb1.html",
+      "condition": "used"
+    },
+    {
+      "name": "Used2023FordEscapePlatinum",
+      "vin": "1FMCU9JAXPUB08816",
+      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/used/fc040026a43b.html",
+      "condition": "used"
+    },
+    {
       "name": "Used2023FordF-150Platinum",
       "vin": "1FTFW1E86PFC58432",
       "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/used/540a21d58ff2.html",
@@ -163,10 +241,26 @@
     },
     {
       "name": "Used2023FordF-150Platinum",
+      "vin": "1FTFW1E86PFC58432",
+      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/used/e00821776129.html",
+      "condition": "used",
+      "price": 55668.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Used2023FordF-150Platinum",
       "vin": "1FTFW1E87PFA30083",
       "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/used/c2c719b82d28.html",
       "condition": "used",
       "price": 51299.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Used2023FordF-150Platinum",
+      "vin": "1FTFW1E87PFA30083",
+      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/used/80d11f7cdc11.html",
+      "condition": "used",
+      "price": 49668.0,
       "price_currency": "CAD"
     },
     {
@@ -182,6 +276,12 @@
       "condition": "used"
     },
     {
+      "name": "Used2023FordSuper Duty F-350 SRWXLT",
+      "vin": "1FT8W3BM4PED56127",
+      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/used/6fb9c9ec0941.html",
+      "condition": "used"
+    },
+    {
       "name": "Used2023GMCAcadiaSLE",
       "vin": "1GKKNRLS4PZ233675",
       "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/used/3fc100f0523f.html",
@@ -190,10 +290,12 @@
       "price_currency": "CAD"
     },
     {
-      "name": "Used2023JeepCompassNorth",
-      "vin": "3C4NJDBNXPT507004",
-      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/used/171c82f066bc.html",
-      "condition": "used"
+      "name": "Used2023GMCAcadiaSLE",
+      "vin": "1GKKNRLS4PZ233675",
+      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/used/ceb0eba733f2.html",
+      "condition": "used",
+      "price": 26297.0,
+      "price_currency": "CAD"
     },
     {
       "name": "Used2023Ram1500 ClassicExpress",
@@ -210,6 +312,14 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Used2023Ram1500Sport",
+      "vin": "1C6SRFVT8PN675815",
+      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/used/79576d4449e2.html",
+      "condition": "used",
+      "price": 49458.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Used2024ChevroletBlazerRS",
       "vin": "3GNKBKRS6RS140327",
       "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/used/5462b9ddec5b.html",
@@ -218,10 +328,12 @@
       "price_currency": "CAD"
     },
     {
-      "name": "Used2024FordBroncoBig Bend",
-      "vin": "1FMDE7BH0RLA32713",
-      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/used/fb9691d01edc.html",
-      "condition": "used"
+      "name": "Used2024ChevroletBlazerRS",
+      "vin": "3GNKBKRS6RS140327",
+      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/used/d64321b1dbe0.html",
+      "condition": "used",
+      "price": 40397.0,
+      "price_currency": "CAD"
     },
     {
       "name": "Used2024FordE-Series Cutaway",
@@ -232,21 +344,63 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Used2024FordE-Series Cutaway",
+      "vin": "1FDXE4FN7RDD19178",
+      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/used/fe2b06630f97.html",
+      "condition": "used",
+      "price": 41459.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Used2024FordEdgeSEL",
       "vin": "2FMPK4J90RBA98497",
       "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/used/58014793563b.html",
-      "condition": "used"
+      "condition": "used",
+      "price": 31499.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Used2024FordEdgeSEL",
+      "vin": "2FMPK4J90RBA98497",
+      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/used/15c0a5bf97ce.html",
+      "condition": "used",
+      "price": 31499.0,
+      "price_currency": "CAD"
     },
     {
       "name": "Used2024FordF-150Lariat",
       "vin": "1FTFW5L86RFB31824",
       "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/used/211c7de1d1d4.html",
-      "condition": "used"
+      "condition": "used",
+      "price": 60999.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Used2024FordF-150Lariat",
+      "vin": "1FTFW5L86RFB31824",
+      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/used/0f91002c95f4.html",
+      "condition": "used",
+      "price": 60999.0,
+      "price_currency": "CAD"
     },
     {
       "name": "Used2024FordF-150Lariat",
       "vin": "1FTFW5L87RFB28513",
       "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/used/d38fb4479821.html",
+      "condition": "used"
+    },
+    {
+      "name": "Used2024FordF-150Lariat",
+      "vin": "1FTFW5L87RFB28513",
+      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/used/ecb846ea7b87.html",
+      "condition": "used",
+      "price": 64258.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Used2024FordF-150Lariat",
+      "vin": "1FTFW5L82RFA36211",
+      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/used/9be6e51b7732.html",
       "condition": "used"
     },
     {
@@ -264,10 +418,26 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Used2024JeepWranglerSport S",
+      "vin": "1C4PJXDG5RW338340",
+      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/used/433e9238e28b.html",
+      "condition": "used",
+      "price": 43887.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Used2024Ram3500Laramie",
       "vin": "3C63RRJL4RG152752",
       "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/used/2da35cfffe13.html",
       "condition": "used"
+    },
+    {
+      "name": "Used2024Ram3500Laramie",
+      "vin": "3C63RRJL4RG152752",
+      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/used/5737f1a18e3d.html",
+      "condition": "used",
+      "price": 82258.0,
+      "price_currency": "CAD"
     },
     {
       "name": "Used2024Ram3500Laramie",
@@ -278,11 +448,25 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Used2025ChevroletSilverado 1500LT",
+      "vin": "2GCUKDED4S1135830",
+      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/used/4466947a07d4.html",
+      "condition": "used"
+    },
+    {
       "name": "Used2025ChevroletTrailBlazerLT",
       "vin": "KL79MRSL6SB029014",
       "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/used/1efab8a7fee6.html",
       "condition": "used",
       "price": 28499.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Used2025ChevroletTrailBlazerLT",
+      "vin": "KL79MRSL6SB029014",
+      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/used/6797009c490e.html",
+      "condition": "used",
+      "price": 27397.0,
       "price_currency": "CAD"
     },
     {
@@ -293,21 +477,25 @@
     },
     {
       "name": "Used2025FordEscapePlatinum",
+      "vin": "1FMCU9JA8SUA94150",
+      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/used/7cbb698bcd9f.html",
+      "condition": "used",
+      "price": 31449.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Used2025FordEscapePlatinum",
       "vin": "1FMCU9JA2SUB05224",
       "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/used/09bbadf16ade.html",
       "condition": "used"
     },
     {
-      "name": "Used2025FordF-150Lariat",
-      "vin": "1FTFW5L81SFA68914",
-      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/used/cdaadc59c3e3.html",
-      "condition": "used"
-    },
-    {
-      "name": "Used2025FordF-150Lariat",
-      "vin": "1FTFW5L8XSFC31978",
-      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/used/355c941c0736.html",
-      "condition": "used"
+      "name": "Used2025FordEscapePlatinum",
+      "vin": "1FMCU9JA2SUB05224",
+      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/used/ebe1553208f8.html",
+      "condition": "used",
+      "price": 31449.0,
+      "price_currency": "CAD"
     },
     {
       "name": "Used2025FordF-150Lariat",
@@ -315,6 +503,14 @@
       "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/used/2e148539c756.html",
       "condition": "used",
       "price": 65299.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Used2025FordF-150Lariat",
+      "vin": "1FTFW5L84SKE43248",
+      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/used/a6080ca7b324.html",
+      "condition": "used",
+      "price": 62558.0,
       "price_currency": "CAD"
     },
     {
@@ -344,11 +540,27 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Used2025FordF-150Tremor",
+      "vin": "1FTFW4L83SFB81046",
+      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/used/60784268e7a9.html",
+      "condition": "used",
+      "price": 70558.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Used2025FordTransit Passenger WagonXL",
       "vin": "1FBAX9C8XSKA00198",
       "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/used/76d2b160ae12.html",
       "condition": "used",
       "price": 76299.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Used2025FordTransit Passenger WagonXL",
+      "vin": "1FBAX9C8XSKA00198",
+      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/used/0835995aef92.html",
+      "condition": "used",
+      "price": 74397.0,
       "price_currency": "CAD"
     },
     {
@@ -360,11 +572,27 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Used2025MitsubishiRVRES",
+      "vin": "JA4AJUAU3SU605470",
+      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/used/5e048a621dab.html",
+      "condition": "used",
+      "price": 25771.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Used2026ChevroletEquinoxAWD LT",
       "vin": "3GNAXPEGXTL283343",
       "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/used/b4b97fdb3c6b.html",
       "condition": "used",
       "price": 36499.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Used2026ChevroletEquinoxAWD LT",
+      "vin": "3GNAXPEGXTL283343",
+      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/used/0eec21eaa8bc.html",
+      "condition": "used",
+      "price": 34258.0,
       "price_currency": "CAD"
     },
     {
@@ -380,16 +608,26 @@
       "condition": "used"
     },
     {
-      "name": "New2026FordSuper Duty F-350 SRWKing Ranch",
-      "vin": "1FT8W3BM9TEE29308",
-      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/used/eb6463c8d693.html",
-      "condition": "used"
+      "name": "Used2026FordBronco SportOuter Banks",
+      "vin": "3FMCR9CN2TRE15898",
+      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/used/eca354cdf733.html",
+      "condition": "used",
+      "price": 38258.0,
+      "price_currency": "CAD"
     },
     {
       "name": "Used2026GMCYukon XLAT4 Ultimate",
       "vin": "1GKS2WK81TR130088",
       "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/used/adb662375a4d.html",
       "condition": "used"
+    },
+    {
+      "name": "Used2026Ram2500Laramie",
+      "vin": "3C63R5NL6TG171457",
+      "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/used/57804eb749bd.html",
+      "condition": "used",
+      "price": 83668.0,
+      "price_currency": "CAD"
     },
     {
       "name": "New2027FordExpeditionKing Ranch",

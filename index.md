@@ -1,6 +1,6 @@
 # Bannister Ford Ltd
 
- dealership in Dawson Creek. AI-readable inventory mirror, about 240 vehicles.
+ dealership in Dawson Creek. AI-readable inventory mirror, about 270 vehicles.
 
 - Official website: https://www.bannisterford.com/
 - Used vehicles: https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/used/
