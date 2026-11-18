@@ -1,6 +1,6 @@
 {
   "dealership": "Bannister Ford Ltd",
-  "generated_at": "2026-11-16T18:49:02",
+  "generated_at": "2026-11-17T17:27:00",
   "vehicle_count": 270,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -784,7 +784,7 @@
       "vin": "3FMCR9BN2TRE49731",
       "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/bb6c30ad3fc6.html",
       "condition": "new",
-      "price": 40540.0,
+      "price": 42915.0,
       "price_currency": "CAD"
     },
     {
@@ -799,9 +799,7 @@
       "name": "New2026FordBronco SportOuter Banks",
       "vin": "3FMCR9CN1TRE84954",
       "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/334e88aba633.html",
-      "condition": "new",
-      "price": 44185.0,
-      "price_currency": "CAD"
+      "condition": "new"
     },
     {
       "name": "New2026FordBronco SportOuter Banks",
@@ -836,7 +834,7 @@
       "vin": "1FTFW5L87TFA51813",
       "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/912484f48925.html",
       "condition": "new",
-      "price": 86600.0,
+      "price": 93850.0,
       "price_currency": "CAD"
     },
     {
@@ -1551,7 +1549,9 @@
       "name": "New2026FordMaverickXLT",
       "vin": "3FTTW8JA4TRA81221",
       "url": "https://willyml1979-dotcom.github.io/bannister-ford-ltd-mirror/new/abad9ec47d5d.html",
-      "condition": "new"
+      "condition": "new",
+      "price": 41111.0,
+      "price_currency": "CAD"
     },
     {
       "name": "New2026FordMaverickXLT",
